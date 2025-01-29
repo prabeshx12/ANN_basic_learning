@@ -41,7 +41,7 @@ to create non-linearity which will aid in solving the problem.
 
 <h4>Back propagation</h4>
 <i>&delta;<sub>k</sub> = (t - y<sub>k</sub>) * Sigmoid_derivative(y<sub>ink</sub>)<br>
-   &delta;y<sub>j</sub> = &delta;y<sub>inj</sub> * Sigmoid_derivative(Z<sub>inj</sub>)<br>
+   &delta;<sub>j</sub> = &delta;y<sub>inj</sub> * Sigmoid_derivative(Z<sub>inj</sub>)<br>
    &delta;y<sub>inj</sub> = &Sigma;(&delta;<sub>k</sub>* w<sub>jk</sub>)
    where &delta;<sub>k</sub> = delta output error.
 </i>
