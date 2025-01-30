@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e8ce7c-37ea-4d4b-840e-3083db04dae7" name="Changes" comment="test for ANN">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_one.py" afterDir="false" />
-    </list>
+    <list default="true" id="b3e8ce7c-37ea-4d4b-840e-3083db04dae7" name="Changes" comment="final commit for the day(1)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -302,7 +298,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738171405261</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="final commit for the day">
+      <option name="closed" value="true" />
+      <created>1738175228219</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738175228219</updated>
+    </task>
+    <task id="LOCAL-00012" summary="final commit for the day(1)">
+      <option name="closed" value="true" />
+      <created>1738175442109</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738175442109</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,6 +359,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="test for ANN" />
-    <option name="LAST_COMMIT_MESSAGE" value="test for ANN" />
+    <MESSAGE value="final commit for the day" />
+    <MESSAGE value="final commit for the day(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit for the day(1)" />
   </component>
 </project>
